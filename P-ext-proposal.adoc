@@ -2488,7 +2488,7 @@ may choose to block the use of an odd number as a register index for the paired-
 
 Having a fixed-size data type increases code readability and avoids confusion on the value range
 of an operand. On the other hand, the instructions defined here operate on registers of different sizes.
-Some operands have a size depending on the XLEN value. Some operands have fixed sizes independt of the
+Some operands have a size depending on the XLEN value. Some operands have fixed sizes independent of the
 XLEN value. To help distinguish them and still conform to the fixed-size principle,
 the following symbols will be defined and used in the intrinsic function prototype descriptions.
 
